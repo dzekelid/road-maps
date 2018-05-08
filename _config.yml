@@ -4,7 +4,7 @@ url: road-maps.streamdata.gallery
 tag: Road Maps
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: road-maps
 github_branch: master
 collections:
